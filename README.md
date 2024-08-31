@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa0416&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa0416" /> </p>
 
-- 🔭 I’m currently working on [Drinker](https://github.com/Vishwa0416/Drinker)
+- 🔭 I’m currently working on [Drinker](https://github.com/Vishwa0416/Drinker) and [TravPlan](https://github.com/Vishwa0416/TravPlan)
 
-- 🌱 I’m currently learning **Laravel, Bootstrap, Firebase**
+- 🌱 I’m currently learning **Laravel, React, Firebase**
 
 - 📫 How to reach me **araliyawijesakare@gmail.com**
 
