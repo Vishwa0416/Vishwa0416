@@ -1,4 +1,4 @@
-
+![My Image](https://images.pixexid.com/a-focused-coder-rapidly-types-lines-of-code-surrounded-by-streams-of-numbers-d-bt55rgzl.webp?h=700&q=70)
 <h1 align="center">Hi 👋, I'm Vishwa Wijesakare</h1>
 <h3 align="center">Building Together, One Commit at a Time</h3>
 
