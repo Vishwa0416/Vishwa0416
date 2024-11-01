@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [TravPlan](https://github.com/Vishwa0416/TravPlan)
 
-- 🌱 I’m currently learning **Laravel, React, Firebase**
+- 🌱 I’m currently learning **Laravel, React, Flutter**
 
 - 📫 How to reach me **araliyawijesakare@gmail.com**
 
