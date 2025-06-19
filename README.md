@@ -7,15 +7,15 @@
 
 - 🌱 I’m currently learning **NestJS and Next.js**
 
-- 👨‍💻 All of my projects are available at [https://vishwawijesekare.vercel.app/](https://vishwawijesekare.vercel.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vishwawijesekare.vercel.app/)
 
-- 📝 I regularly write articles on [https://medium.com/@araliyawijesakare](https://medium.com/@araliyawijesakare)
+- 📝 I regularly write articles on [Medium](https://medium.com/@araliyawijesakare)
 
 - 💬 Ask me about **Next.js, NestJS, and PHP**
 
 - 📫 How to reach me **araliyawijesakare@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LDrcYjAq7sWnfoO5kbQtPwJ-_p5YJNiW/view?usp=drive_link](https://drive.google.com/file/d/1LDrcYjAq7sWnfoO5kbQtPwJ-_p5YJNiW/view?usp=drive_link)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1LDrcYjAq7sWnfoO5kbQtPwJ-_p5YJNiW/view?usp=drive_link)
 
 - ⚡ Fun fact **I can never resist a good cup of coffee!**
 
