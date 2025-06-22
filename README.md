@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vishwa Wijesakare</h1>
-<h3 align="center">Building Together, One Commit at a Time</h3>
+<h3 align="center">Full Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwa0416&label=Profile%20views&color=0e75b6&style=flat" alt="vishwa0416" /> </p>
 
