@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🔭 I’m currently working on [**Auto Tracker**](https://github.com/Minds-Alpha/auto-trackers-webapp)
-- 🌱 I’m currently learning **NestJS** and **Next.js**
+- 🌱 I’m currently learning **Go** and **DevOps**
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://vishwawijesekare.vercel.app/)
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@araliyawijesakare)
 - 💬 Ask me about **Next.js, NestJS, and PHP**
