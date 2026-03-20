@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on [**Nature Win Yala**](https://github.com/Syntrix-Snipers/nature-win-yala)
+- 🔭 I’m currently working on [**Dika**](https://github.com/Gen-O3/dika-s_frontend)
 - 🌱 I’m currently learning **Go**
 - 👨‍💻 All of my projects are available at [**Portfolio**](https://portfolio-design-zeta-virid.vercel.app/)
 - 📝 I regularly write articles on [**Medium**](https://medium.com/@araliyawijesakare)
